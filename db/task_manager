@@ -1,0 +1,15 @@
+---
+tasks:
+- id: 1
+  title: Code Academedy
+  description: Work through the tutorial.
+- id: 2
+  title: Personal site
+  description: Make a personal blog site
+- id: 3
+  title: web guesser
+  description: Make a site that makes a user guess a random number
+- id: 4
+  title: Task Manager
+  description: The thing you are working on.
+total: 4

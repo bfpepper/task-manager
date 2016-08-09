@@ -1,1 +1,12 @@
-
+---
+task:
+- id: 1
+  title: this one
+  description: "this is a new task\r\n"
+- id: 2
+  title: This thing
+  description: That thing
+- id: 3
+  title: Web guesser
+  description: The ting I have to guess
+total: 3

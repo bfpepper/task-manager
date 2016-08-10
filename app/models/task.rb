@@ -1,5 +1,5 @@
 class Task
-  attr_reader :id, :description, :title
+  attr_reader :title, :description, :id
 
   def initialize(data)
     @id = data["id"]

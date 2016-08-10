@@ -9,4 +9,7 @@ task:
 - id: 3
   title: Web guesser
   description: The ting I have to guess
-total: 3
+- id: 4
+  title: This task
+  description: That task
+total: 4

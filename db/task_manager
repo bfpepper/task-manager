@@ -1,19 +1,12 @@
 ---
-task:
-- id: 1
-  title: this one
-  description: "this is a new task\r\n"
-- id: 2
-  title: This thing
-  description: That thing
-- id: 3
-  title: Web guesser
-  description: The ting I have to guess
-- id: 4
-  title: This task
-  description: That task
-total: 1
 tasks:
 - id: 1
-  title: Lwt see
-  description: "Not sure \r\n"
+  title: Task Manager
+  description: "The thing that is currently working\r\n"
+- id: 1
+  title: Web Guesser
+  description: Can you get the count cycle to work?
+- id: 1
+  title: Personal site
+  description: Can we make it look a bit prettier?
+total: 1

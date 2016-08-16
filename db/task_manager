@@ -2,7 +2,7 @@
 tasks:
 - id: 1
   title: Style this thing
-  description: Jesus, make it pretty.
+  description: Jesus, make it pretty. please
 - id: 2
   title: Robot World
   description: Make a world full of Robots?

@@ -7,3 +7,4 @@ gem 'minitest-nyan-cat'
 gem 'capybara'
 gem 'launchy'
 gem "pry"
+gem 'sqlite3'

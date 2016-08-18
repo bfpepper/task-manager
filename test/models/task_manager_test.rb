@@ -15,7 +15,6 @@ class TaskManagerTest < Minitest::Test
     task = task_manager.find(current_task_id)
 
     assert_equal "Some title", task.title
-    assert_equal 1, task.id
     assert_equal "Some description", task.description
   end
 
